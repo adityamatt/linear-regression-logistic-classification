@@ -1,8 +1,25 @@
-#Name
-Aditya Tiwari
-#############################
+## Platform Used  
+Ubuntu 16.04
+## Requirements  
+Python 2   
+To install libraries if missing,I use pip  
+```
+sudo apt-get install python-pip 
+```
+Numpy  
+```
+sudo pip install numpy
+```
+Matplotlib
+```
+sudo pip install matplotlib
+```
+statistics
+```
+sudo pip install statistics
+```
 
-Linear Ridge Regression:
+## Linear Ridge Regression:
 
     The code is in commented form:
     
